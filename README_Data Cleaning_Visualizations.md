@@ -51,7 +51,7 @@ There is a gradual increase in total CO₂ emissions from 2000 to around 2010, f
 ### 3. Which sectors contribute most to CO₂ emissions?
 ![Sectoral Contributions](https://github.com/user-attachments/assets/24cc6a68-7d4c-47f9-9550-168f25f84edd)
 <br>
-➔	United States: Dominated by oil and coal, with substantial contributions from natural gas. <br>
+➔	United States: Dominated by oil, coal, and natural gas. <br>
 ➔	Canada: High emissions from oil and gas, with notable land use change impacts. <br>
 ➔	Mexico: Oil is the primary source, with moderate coal and gas. <br>
 ➔	Smaller Nations: Sectoral emissions are much lower but often dominated by a single source.
