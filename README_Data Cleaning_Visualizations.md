@@ -49,7 +49,8 @@ There is a gradual increase in total CO₂ emissions from 2000 to around 2010, f
 ➔ Trinidad and Tobago (dark green) has very high energy use per person and very high GHG emissions per person, but the size of point is small that indicates low GDP. Unlike Canada, USA which also shows high energy and emissions per capita and has a high GDP. <br>
 ➔ Some Caribbean nations of North America (Bahamas, Antigua and Barbuda) show high energy use per capita but relatively moderate emissions. 
 ### 3. Which sectors contribute most to CO₂ emissions?
-![Sectoral Contributions](https://github.com/user-attachments/assets/a5d161db-96d8-4de8-a0f8-06651b921895)<br>
+![Sectoral Contributions](https://github.com/user-attachments/assets/24cc6a68-7d4c-47f9-9550-168f25f84edd)
+<br>
 ➔	United States: Dominated by oil and coal, with substantial contributions from natural gas. <br>
 ➔	Canada: High emissions from oil and gas, with notable land use change impacts. <br>
 ➔	Mexico: Oil is the primary source, with moderate coal and gas. <br>
